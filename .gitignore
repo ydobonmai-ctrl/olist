@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs_*.txt
+fix_mysql_datadir.ps1
+tableau/olist_delivery_orders.csv
+tableau/대시보드_만들기_안내.md
